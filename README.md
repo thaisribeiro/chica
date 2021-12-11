@@ -1,6 +1,5 @@
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <img src="chica_logo.png" alt="Logo">
   <h2 align="center">C.H.I.C.A</h2>
@@ -62,3 +61,8 @@ Contributions are what make the open source community such an amazing place to b
 
 Thais Ribeiro - [@thaisplicandoo](https://twitter.com/thaisplicandoo) - thaisribeirodn@gmail.com
 
+## Curiosities
+
+<p align="center">
+  <h3>Sim, a Chica é um Pequi</h3>
+<p>
