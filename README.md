@@ -65,6 +65,6 @@ Thais Ribeiro - [@thaisplicandoo](https://twitter.com/thaisplicandoo) - thaisrib
 
 <h4>
   <p align="center">
-    Sim, a Chica é um Pequ
+    Sim, a Chica é um Pequi!
   <p>
 </h4>
