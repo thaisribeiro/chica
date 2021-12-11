@@ -6,14 +6,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/HaseebKhalid1507/AudioLine/">
-    <img src="./logo.png" alt="Logo" width="450" height="80">
-  </a>
-
-  <h3 align="center">AudioLine</h3>
-
+  <img src="chica_logo.png" alt="Logo" width="450" height="80">
+  <h3 align="center">Chica</h3>
   <p align="center">
-    A lightweight Youtube audio player for your terminal
+    Sua assistente virtual mineira e graciosa
     <br />
     <br />
     ·
