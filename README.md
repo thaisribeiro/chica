@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <img src="chica_logo.png" alt="Logo">
-  <h3 align="center">Chica</h3>
+  <h2 align="center">C.H.I.C.A</h2>
   <p align="center">
     Sua assistente virtual mineira e graciosa
     <br />
