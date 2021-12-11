@@ -47,6 +47,15 @@ You can now run the script with python3.
 python3 chica.py
 ```
 
+## 🗣️ Example
+After starting the project automatically he will be listening to you, just ask Chica something.
+Things Chica can do for you:
+
+1. Speak current time
+2. Speak the current day
+3. Search wikipedia
+4. Search and play music on youtube
+
 ## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**.
@@ -61,7 +70,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Thais Ribeiro - [@thaisplicandoo](https://twitter.com/thaisplicandoo) - thaisribeirodn@gmail.com
 
-## Curiosities
+## 👀 Curiosities
 
 <h4>
   <p align="center">
